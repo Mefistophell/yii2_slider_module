@@ -6,4 +6,8 @@ CREATE TABLE IF NOT EXISTS `yii2_start_slider` (
   `align` varchar(11) NOT NULL,
   `img` varchar(128) NOT NULL,
   PRIMARY KEY (`id`)
+<<<<<<< HEAD
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=8 ;
+=======
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=8 ;
+>>>>>>> origin/master
