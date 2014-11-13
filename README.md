@@ -53,6 +53,8 @@ Yii::setAlias('backend', dirname(dirname(__DIR__)) . '/backend');
 ), 
 ```
 
+- Create a new table in your database from file: `yii2_start_slider.sql`
+
 - RBAC settings: For usage modules create Role "administrateSlider"
 
 ```
