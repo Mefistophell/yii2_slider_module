@@ -10,6 +10,9 @@
             "email": "asklepiy@i.ua"
         }
     ],
+    "require": {
+        "vova07/yii2-start": "*"
+    },
     "autoload": {
         "psr-4": {
             "nill\\slider\\": ""
