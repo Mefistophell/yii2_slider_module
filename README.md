@@ -55,6 +55,10 @@ Yii::setAlias('backend', dirname(dirname(__DIR__)) . '/backend');
 
 - Create a new table in your database from file: `yii2_start_slider.sql`
 
+OR: Apply migration with console commands:
+
+`php yii migrate --migrationPath=@nill/slider/migrations`
+
 - RBAC settings: For usage modules create Role "administrateSlider"
 
 ```
