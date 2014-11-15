@@ -1,0 +1,22 @@
+{
+    "name": "nill/yii2_slider_module",
+    "description": "The Slidershow module for Yii2-start application.",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "slider", "module", "yii 2", "yii2-start"],
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Mefistophell",
+            "email": "asklepiy@i.ua"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "nill\\slider\\": ""
+        }
+    },
+    "config":{
+        "vendor-dir": "vendor/nill"
+    }
+}
