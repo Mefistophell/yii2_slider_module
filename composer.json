@@ -18,5 +18,8 @@
     },
     "config":{
         "vendor-dir": "vendor/nill"
+    },
+    "require": {
+        "php": ">=5.4.0",
     }
 }
