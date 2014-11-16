@@ -10,9 +10,31 @@ This module is used with Yii2-Start application
 
 
 Installation
-------------
+=============
 
-Extract the zip into the folder with your project
+Install via Composer
+--------------------
+
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+Either run
+
+```
+php composer.phar require nill/yii2-slider-module "dev-master"
+```
+
+or add
+
+```
+"nill/yii2-slider-module": "dev-master"
+```
+
+to the require section of your `composer.json` file.
+
+Install from an Archive File
+----------------------------
+
+Download and extract the zip-file into the folder with your project
 
 
 ```
