@@ -7,5 +7,6 @@
             "email": "asklepiy@i.ua"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
