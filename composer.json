@@ -1,7 +1,11 @@
 {
-    "name": "nill/yii2_slider_module",
-    "description": "A short description of what your package does",
-    "require": {
-        "php": ">=5.3.0",
-    }
+    "name": "nill/yii2-slider-module",
+    "description": "Slider",
+    "authors": [
+        {
+            "name": "Nill Mefistophell",
+            "email": "asklepiy@i.ua"
+        }
+    ],
+    "require": {}
 }
