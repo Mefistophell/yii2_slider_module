@@ -65,11 +65,11 @@ Yii::setAlias('backend', dirname(dirname(__DIR__)) . '/backend');
 ```
 'nill/slider' => 
     array (
-        'name' => 'nill/yii2_slider_module',
+        'name' => 'nill/yii2-slider-module',
         'version' => '0.1.0.0',
         'alias' => 
         array (
-            '@nill/slider' => $vendorDir . '/nill/yii2_slider_module',
+            '@nill/slider' => $vendorDir . '/nill/yii2-slider-module',
     ),
     'bootstrap' => 'nill\\slider\\Bootstrap',
 ), 
